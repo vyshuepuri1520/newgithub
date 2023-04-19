@@ -3,5 +3,7 @@ if a == 0:
     print('the number is zero')
 elif a % 2 == 0:
     print('the number is even')
-else:
+elif a % 2 == 0:
     print('the number is odd')
+else :
+    print('invalid')
